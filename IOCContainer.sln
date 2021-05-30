@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCContainer", "IOCContainer\IOCContainer.csproj", "{F3C67E9C-EB90-4998-B011-BA25DE705D16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCContainer.Example", "IOCContainer.Example\IOCContainer.Example.csproj", "{F6044E46-2859-4913-9EA7-ACD20ACA1746}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F3C67E9C-EB90-4998-B011-BA25DE705D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3C67E9C-EB90-4998-B011-BA25DE705D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3C67E9C-EB90-4998-B011-BA25DE705D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6044E46-2859-4913-9EA7-ACD20ACA1746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6044E46-2859-4913-9EA7-ACD20ACA1746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6044E46-2859-4913-9EA7-ACD20ACA1746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6044E46-2859-4913-9EA7-ACD20ACA1746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
