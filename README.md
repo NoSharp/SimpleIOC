@@ -2,7 +2,7 @@
 A simple IoC container for those projects where you don't want to have to add another
 dependency.
 
-##How to?
+## How to?
 Checkout the example if you're confused.
 
 Using the IoC Container.
