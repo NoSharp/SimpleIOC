@@ -29,3 +29,7 @@ public class Test2 : ITest2
 ```
 When using `Set` it will infer the constructor parameters, where possible, meaning that if you 
 have an interface in the container it'll grab that rather than taking it form the arguments in `Set`.
+
+## Installation
+Copy IocContainer.cs From the project IOCContainer and put it in your solution.
+That's it. One file.
